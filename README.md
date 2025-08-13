@@ -2,6 +2,9 @@
 
 this is a mini project that helps manage and track our tasks
 
+##project URL
+view the project in GitHub(
+
 # in this project files can be
   added
   updated and
